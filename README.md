@@ -4,7 +4,7 @@ Original Source from: https://github.com/ukeskin/twitch-race
 
 
 
-Add in URL ?channel=YOURCHANNEL to your channel name
+To play, add in URL ?channel=YOURCHANNEL to your channel name...
 
 but as browsersource into OBS
 
@@ -18,3 +18,6 @@ commands to move:
 !purple
 !black
 !white
+
+
+![screencast](https://raw.githubusercontent.com/RonXTCdaBass/twitch-race/main/Screen.jpg)
