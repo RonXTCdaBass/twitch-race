@@ -1,2 +1,20 @@
-# twitch-race
-![screencast](https://user-images.githubusercontent.com/26279663/134694545-d5007baa-8178-49a7-8d6a-a22813d2a098.gif)
+# twitch-7-alienrace
+
+Original Source from: https://github.com/ukeskin/twitch-race
+
+
+
+Add in URL ?channel=YOURCHANNEL to your channel name
+
+but as browsersource into OBS
+
+let the Race begin ^^
+
+commands to move:
+!red
+!blue
+!green
+!yellow
+!purple
+!black
+!white

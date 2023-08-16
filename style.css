@@ -3,21 +3,42 @@ body{
     height: 100vh;
     padding: 0;
     margin: 0;
-    background: #51ff00;
+	background: url("./assets/track-bg.png") no-repeat;
+	background-size: cover;
+	margin-top: 10px;
+	display: flex;
+	position: relative;
+	flex-direction: column;
+	z-index: 10;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#ffffff;
 }
 .container{
     position: relative;
     padding: 5px;
-    top: calc(100% - 70px);
+    top: calc(100% - 560px);
 }
-.car{
+.alien-animation{
     position: relative;
-    top: calc(100% - 60px);
+    top: calc(100% - 560px);
     left: 0px;
-    width: 120px;
-    height: 30px;
-    transition: all .15s;
+    width: 40px;
+    height: 80px;
+	z-index: 1;
+    duration: .55s;
 }
-.car-image{
-width: 120px;
+.alienImage{
+width: 40px;
+}
+.ziel-animation{
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
+	z-index: 5;
+}
+
+.zielImage{
+    width: 40px;
 }
