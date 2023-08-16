@@ -2,7 +2,9 @@
 
 Original Source from: https://github.com/ukeskin/twitch-race
 
+-----------------
 
+Demo with my version: https://rebrand.ly/xoiy7p1
 
 To play, add in URL ?channel=YOURCHANNEL to your channel name...
 
