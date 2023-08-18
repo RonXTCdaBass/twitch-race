@@ -22,4 +22,4 @@ commands to move:
 !white
 
 
-![screencast](https://raw.githubusercontent.com/RonXTCdaBass/twitch-race/main/Screen.jpg)
+![screenshot](Screen.jpg)
